@@ -1,6 +1,6 @@
 # Classificador de Gatos e Cachorros com Transfer Learning (MobileNet)
 
-Este repositório contém um projeto de classificação de imagens de gatos e cachorros que **eu** desenvolvi, utilizando a técnica de Transfer Learning com o modelo MobileNet pré-treinado na base de dados ImageNet.
+Este repositório contém um projeto de classificação de imagens de gatos e cachorros, utilizando a técnica de Transfer Learning com o modelo MobileNet pré-treinado na base de dados ImageNet.
 
 ## Descrição do Projeto
 
